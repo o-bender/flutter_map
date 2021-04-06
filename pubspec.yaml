@@ -15,7 +15,9 @@ dependencies:
   positioned_tap_detector_2: ^1.0.0
   transparent_image: ^2.0.0
   async: ^2.1.0
-  flutter_image: any
+  flutter_image:
+     git:
+        url: https://github.com/Ascenio/flutter_image.git
   vector_math: ^2.1.0
   proj4dart: ^2.0.0
   collection: ^1.15.0
